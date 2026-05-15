@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1f35,2d3561&height=220&section=header&text=4u-lab&fontSize=90&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20actually%20work.&descAlignY=58&descSize=18&descFontColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1f35,2d3561&height=220&section=header&text=4u-lab&fontSize=90&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20actually%20work.&descAlignY=58&descSize=18&descFontColor=8b949e" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Open+source+developer.;Learning+by+building+real+things.;HTML+%7C+CSS+%7C+JS+%7C+Node.js;One+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Open+source+developer.;Learning+by+building+real+things.;HTML+%7C+CSS+%7C+JS+%7C+Node.js;One+commit+at+a+time.)](https://git.io/typing-svg)
 
 </div>
-
----
 
 <div align="center">
 
@@ -74,19 +72,13 @@ const dev = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4u-lab&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-</div>
-
 ---
 
 ## ░ Activité
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4u-lab&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4u-lab&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -109,7 +101,7 @@ const dev = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4u-lab/4u-lab/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4u-lab/4u-lab/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/4u-lab/4u-lab/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/4u-lab/4u-lab/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -118,7 +110,7 @@ const dev = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1f35,2d3561&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1f35,2d3561&height=120&section=footer" width="100%"/>
 
 `{ code: always, sleep: sometimes, coffee: mandatory }`
 

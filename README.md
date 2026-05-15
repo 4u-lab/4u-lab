@@ -35,23 +35,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![JSON](https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=ffffff)
-
-</div>
-
----
-
-## ░ Projects
-
-| Project | Description | Stack | Demo |
-|---|---|---|---|
-| 🗜️ [image-compressor](https://github.com/4u-lab/image-compressor) | Browser-based image compression — no server, no upload, no tracking | HTML · CSS · JS · Canvas API | [🌐 Live](https://4u-lab.github.io/image-compressor) |
-
-> More projects dropping soon.
-
-<div align="center">
-
-[![image-compressor](https://github-readme-stats.vercel.app/api/pin/?username=4u-lab&repo=image-compressor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/4u-lab/image-compressor)
 
 </div>
 
@@ -88,31 +71,17 @@
 
 ---
 
-## ░ Philosophy
-
-<div align="center">
-
-> *"Don't just read code. Ship things."*
-
-</div>
-
----
-
 ## ░ Open Source
 
-Tous mes projets sont open source sous licence **MIT**.
-Tu veux contribuer, signaler un bug, proposer une feature ?
-
-- 🐛 Ouvre une [issue](https://github.com/4u-lab/image-compressor/issues)
-- 🔀 Fork et envoie une pull request
-- ⭐ Star le repo si ça t'a été utile
+> Tous mes projets sont open source sous licence **MIT**.
+> Fork, contribue, ou ouvre une issue — tout est le bienvenu.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1f35,2d3561&height=120&section=footer" width="100%"/>
-
 `{ ship: always, talk: less, build: more }`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1f35,2d3561&height=120&section=footer" width="100%"/>
 
 </div>

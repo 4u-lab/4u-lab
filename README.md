@@ -40,12 +40,24 @@
 
 ---
 
+## ░ Latest Project
+
+<div align="center">
+
+[![bio-page](https://github-readme-stats.vercel.app/api/pin/?username=4u-lab&repo=bio-page&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/4u-lab/bio-page)
+
+</div>
+
+> More projects dropping soon.
+
+---
+
 ## ░ Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=4u-lab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4u-lab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4u-lab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=6" height="165"/>
 
 </div>
 
